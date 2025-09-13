@@ -36,6 +36,6 @@ Todo o conteúdo aqui é fruto das aulas e atividades da disciplina **Programaç
 
 ---
 
-✍️ Autor: **Caio Lucas (Laurindo)**  
+✍️ Autor: **Caio Lucas Laurindo**  
 📚 Disciplina: **Programação Imperativa - UNICAP**  
 👨‍🏫 Professor: **Daniel Bezerra**  
