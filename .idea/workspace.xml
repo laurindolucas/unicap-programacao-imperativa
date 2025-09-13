@@ -23,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/unicapProgramacaoImperativa" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
@@ -33,7 +33,7 @@
 }]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/laurindolucas/unicapProgramacaoImperativa.git",
+    "url": "https://github.com/laurindolucas/unicap-programacao-imperativa.git",
     "accountId": "b682fe24-c338-45ac-843b-9e6338d69da6"
   }
 }]]></component>
@@ -56,7 +56,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/pc/unicap-programacao-imperativa/exercicio/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/pc/unicap-programacao-imperativa/salaDeAula1/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -70,6 +70,8 @@
       <recent name="C:\Users\pc\unicap-programacao-imperativa\salaDeAula\12092025\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pc\unicap-programacao-imperativa\salaDeAula1\12092025" />
+      <recent name="C:\Users\pc\unicap-programacao-imperativa\exercicio\listas\lista01" />
       <recent name="C:\Users\pc\unicap-programacao-imperativa" />
     </key>
   </component>
@@ -89,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1757732075772</updated>
-      <workItem from="1757732076907" duration="908000" />
+      <workItem from="1757732076907" duration="1346000" />
     </task>
     <servers />
   </component>
@@ -103,6 +105,11 @@
           <url>file://$PROJECT_DIR$/exercicio/listas/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/projetos/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
