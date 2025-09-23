@@ -4,9 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d51719f-86b7-4aa9-818e-2ca5bc834563" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="4d51719f-86b7-4aa9-818e-2ca5bc834563" name="Changes" comment="resolução das 4 questões da lista 02">
+      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista00/q01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista00/q02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista01/vetores/q01_Vetores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista01/vetores/q02_Vetores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista01/vetores/q03_Vetores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista01/vetores/q04_Vetores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista01/vetores/q05_Vetores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista02/q01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista02/q02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista02/q03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista02/q04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista02/q05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista02/q06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista02/q07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista02/q08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista02/q09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista02/q10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio/listas/lista01/q11_Vetores.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio/listas/lista01/vetores/q11_Vetores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio/listas/lista01/q12_Vetores.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio/listas/lista01/vetores/q12_Vetores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio/listas/lista01/q13_Matrizes.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio/listas/lista01/Matrizes/q13_Matrizes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio/listas/lista01/q14_Matrizes.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio/listas/lista01/Matrizes/q14_Matrizes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +64,9 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="32cuF9gI9YH6Cd1ol3BYvT6uPsf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,6 +74,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.main.executor": "Run",
+    "Application.q01.executor": "Run",
+    "Application.q01_Vetores.executor": "Run",
+    "Application.q02.executor": "Run",
+    "Application.q02_Vetores.executor": "Run",
+    "Application.q03_Vetores.executor": "Run",
+    "Application.q05_Vetores.executor": "Run",
     "Application.q11.executor": "Run",
     "Application.q12.executor": "Run",
     "Application.q13.executor": "Run",
@@ -88,6 +117,9 @@
       <recent name="C:\Users\pc\unicap-programacao-imperativa\exercicio\listas\lista01" />
       <recent name="C:\Users\pc\unicap-programacao-imperativa" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lista01.vetores" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -121,12 +153,25 @@
       <updated>1757732075772</updated>
       <workItem from="1757732076907" duration="1346000" />
       <workItem from="1758061817344" duration="4694000" />
-      <workItem from="1758544877977" duration="2662000" />
+      <workItem from="1758544877977" duration="14195000" />
     </task>
+    <task id="LOCAL-00001" summary="resolução das 4 questões da lista 02">
+      <option name="closed" value="true" />
+      <created>1758549199829</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758549199829</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="resolução das 4 questões da lista 02" />
+    <option name="LAST_COMMIT_MESSAGE" value="resolução das 4 questões da lista 02" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
