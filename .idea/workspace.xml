@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d51719f-86b7-4aa9-818e-2ca5bc834563" name="Changes" comment="resolução de algumas questões da lista de vetores e da lista 02">
-      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista00/q01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista00/q02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista01/vetores/q01_Vetores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista01/vetores/q02_Vetores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista01/vetores/q03_Vetores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista01/vetores/q04_Vetores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista01/vetores/q05_Vetores.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicio/listas/lista01/q11_Vetores.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio/listas/lista01/vetores/q11_Vetores.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicio/listas/lista01/q12_Vetores.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio/listas/lista01/vetores/q12_Vetores.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicio/listas/lista01/q13_Matrizes.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio/listas/lista01/Matrizes/q13_Matrizes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicio/listas/lista01/q14_Matrizes.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio/listas/lista01/Matrizes/q14_Matrizes.java" afterDir="false" />
-    </list>
+    <list default="true" id="4d51719f-86b7-4aa9-818e-2ca5bc834563" name="Changes" comment="resolução de algumas questões da lista de vetores e da lista 02" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,7 +130,7 @@
       <updated>1757732075772</updated>
       <workItem from="1757732076907" duration="1346000" />
       <workItem from="1758061817344" duration="4694000" />
-      <workItem from="1758544877977" duration="15181000" />
+      <workItem from="1758544877977" duration="15889000" />
     </task>
     <task id="LOCAL-00001" summary="resolução das 4 questões da lista 02">
       <option name="closed" value="true" />
@@ -161,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758651015186</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="resolução de algumas questões da lista de vetores e da lista 02">
+      <option name="closed" value="true" />
+      <created>1758823197249</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1758823197249</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
