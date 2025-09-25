@@ -1,3 +1,5 @@
+package lista01.Matrizes;
+
 import java.util.Scanner;
 public class q13_Matrizes {
     public static void main (String []args){

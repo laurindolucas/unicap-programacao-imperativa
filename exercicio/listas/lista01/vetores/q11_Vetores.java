@@ -1,3 +1,5 @@
+package lista01.vetores;
+
 import java.util.Scanner;
 public class q11_Vetores {
     public static void main (String []args){

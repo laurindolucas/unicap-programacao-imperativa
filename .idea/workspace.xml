@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d51719f-86b7-4aa9-818e-2ca5bc834563" name="Changes" comment="resolução das 4 questões da lista 02">
+    <list default="true" id="4d51719f-86b7-4aa9-818e-2ca5bc834563" name="Changes" comment="resolução de algumas questões da lista de vetores e da lista 02">
       <change afterPath="$PROJECT_DIR$/exercicio/listas/lista00/q01.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/exercicio/listas/lista00/q02.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/exercicio/listas/lista01/vetores/q01_Vetores.java" afterDir="false" />
@@ -12,16 +12,6 @@
       <change afterPath="$PROJECT_DIR$/exercicio/listas/lista01/vetores/q03_Vetores.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/exercicio/listas/lista01/vetores/q04_Vetores.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/exercicio/listas/lista01/vetores/q05_Vetores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista02/q01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista02/q02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista02/q03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista02/q04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista02/q05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista02/q06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista02/q07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista02/q08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista02/q09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista02/q10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercicio/listas/lista01/q11_Vetores.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio/listas/lista01/vetores/q11_Vetores.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercicio/listas/lista01/q12_Vetores.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio/listas/lista01/vetores/q12_Vetores.java" afterDir="false" />
@@ -153,7 +143,7 @@
       <updated>1757732075772</updated>
       <workItem from="1757732076907" duration="1346000" />
       <workItem from="1758061817344" duration="4694000" />
-      <workItem from="1758544877977" duration="14195000" />
+      <workItem from="1758544877977" duration="15181000" />
     </task>
     <task id="LOCAL-00001" summary="resolução das 4 questões da lista 02">
       <option name="closed" value="true" />
@@ -163,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758549199829</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="resolução de algumas questões da lista de vetores e da lista 02">
+      <option name="closed" value="true" />
+      <created>1758651015186</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758651015186</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,7 +169,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="resolução das 4 questões da lista 02" />
-    <option name="LAST_COMMIT_MESSAGE" value="resolução das 4 questões da lista 02" />
+    <MESSAGE value="resolução de algumas questões da lista de vetores e da lista 02" />
+    <option name="LAST_COMMIT_MESSAGE" value="resolução de algumas questões da lista de vetores e da lista 02" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
