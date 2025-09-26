@@ -5,9 +5,10 @@ public class q12 {
     public static String decimalParaBinario(int n){
         if (n == 0) {
             return "0";
-        } else {
-            return Integer.toBinaryString(n);
+        }else{
+            return decimalParaBinario(n / 2) + (n % 2);
         }
+
     }
     public static void main(String[] args) {
         int n = 65;
