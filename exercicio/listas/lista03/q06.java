@@ -1,4 +1,4 @@
-package lista02;
+package lista03;
 
 public class q06 {
 }
