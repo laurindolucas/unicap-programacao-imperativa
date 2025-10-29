@@ -3,7 +3,29 @@ import java.util.Scanner;
 public class q04 {
 
     public static String buscarTitulo(String [][] titulos, String busca ){
+        int linhas = titulos.length;
+        int colunas = titulos[0].length;
 
+        for(int i = 0; i < colunas; i++){
+            int ini, meio, fim;
+            ini = 1;
+            fim = linhas - 1;
+
+            while(ini <= fim){
+                meio = (ini + fim) / 2;
+                int cmp = titulos[meio][i].compareTo(busca);
+
+                if (cmp == 0) {
+                    String genero = titulos[0][i];
+                    return genero;
+                } else if (cmp < 0) {
+                    ini = meio + 1;
+                } else {
+                    fim = meio - 1;
+                }
+            }
+        }
+        return "Não encontrado";
     }
 
     public static void main(String[] args){
@@ -33,5 +55,8 @@ public class q04 {
 
         System.out.println("Digite o nome correto do livro que deseja: ");
         String busca =  scanner.nextLine();
+
+        String resultado = buscarTitulo(titulos, busca);
+        System.out.println(resultado);
     }
 }

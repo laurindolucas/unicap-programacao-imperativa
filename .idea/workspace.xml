@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4d51719f-86b7-4aa9-818e-2ca5bc834563" name="Changes" comment="adicionando q04 da lista 03">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio/listas/lista03/q04.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio/listas/lista03/q04.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +141,7 @@
       <workItem from="1761049457081" duration="75000" />
       <workItem from="1761139216928" duration="8428000" />
       <workItem from="1761674084117" duration="4439000" />
-      <workItem from="1761741826281" duration="5681000" />
+      <workItem from="1761741826281" duration="6649000" />
     </task>
     <task id="LOCAL-00001" summary="resolução das 4 questões da lista 02">
       <option name="closed" value="true" />
@@ -214,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761758873144</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="adicionando q04 da lista 03">
+      <option name="closed" value="true" />
+      <created>1761758929961</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1761758929961</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
