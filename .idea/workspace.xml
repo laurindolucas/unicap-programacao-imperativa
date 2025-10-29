@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d51719f-86b7-4aa9-818e-2ca5bc834563" name="Changes" comment="att 26.09">
-      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista03/q01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista03/q02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista03/q03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista03/q04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista03/q05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista03/q06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio/listas/lista03/q07.java" afterDir="false" />
+    <list default="true" id="4d51719f-86b7-4aa9-818e-2ca5bc834563" name="Changes" comment="adicionando lista 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicio/listas/lista02/q06.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio/listas/lista02/q06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio/listas/lista03/q01.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio/listas/lista03/q01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio/listas/lista03/q03.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio/listas/lista03/q03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,44 +52,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.main.executor": "Run",
-    "Application.q01.executor": "Run",
-    "Application.q01_Vetores.executor": "Run",
-    "Application.q02.executor": "Run",
-    "Application.q02_Vetores.executor": "Run",
-    "Application.q03_Vetores.executor": "Run",
-    "Application.q05_Vetores.executor": "Run",
-    "Application.q06_Vetores.executor": "Run",
-    "Application.q11.executor": "Run",
-    "Application.q12.executor": "Run",
-    "Application.q13.executor": "Run",
-    "Application.q14.executor": "Run",
-    "Application.recursividadefatorial.executor": "Run",
-    "Application.recursividadesoma.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/pc/unicap-programacao-imperativa",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/pc/unicap-programacao-imperativa/salaDeAula1/src/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.q01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.q01_Vetores.executor&quot;: &quot;Run&quot;,
+    &quot;Application.q02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.q02_Vetores.executor&quot;: &quot;Run&quot;,
+    &quot;Application.q03_Vetores.executor&quot;: &quot;Run&quot;,
+    &quot;Application.q05_Vetores.executor&quot;: &quot;Run&quot;,
+    &quot;Application.q06_Vetores.executor&quot;: &quot;Run&quot;,
+    &quot;Application.q11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.q12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.q13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.q14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.recursividadefatorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.recursividadesoma.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/pc/unicap-programacao-imperativa&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/pc/unicap-programacao-imperativa/salaDeAula1/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "JAVA"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\pc\unicap-programacao-imperativa\salaDeAula\12092025\src" />
@@ -144,7 +138,8 @@
       <workItem from="1758544877977" duration="16688000" />
       <workItem from="1758910951355" duration="4581000" />
       <workItem from="1761049457081" duration="75000" />
-      <workItem from="1761139216928" duration="5582000" />
+      <workItem from="1761139216928" duration="8428000" />
+      <workItem from="1761674084117" duration="3803000" />
     </task>
     <task id="LOCAL-00001" summary="resolução das 4 questões da lista 02">
       <option name="closed" value="true" />
@@ -186,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758917532482</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="adicionando lista 3">
+      <option name="closed" value="true" />
+      <created>1761334778880</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1761334778880</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,7 +199,8 @@
     <MESSAGE value="resolução das 4 questões da lista 02" />
     <MESSAGE value="resolução de algumas questões da lista de vetores e da lista 02" />
     <MESSAGE value="att 26.09" />
-    <option name="LAST_COMMIT_MESSAGE" value="att 26.09" />
+    <MESSAGE value="adicionando lista 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="adicionando lista 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
