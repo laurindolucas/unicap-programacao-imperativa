@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d51719f-86b7-4aa9-818e-2ca5bc834563" name="Changes" comment="adicionando q05 da lista 03">
+    <list default="true" id="4d51719f-86b7-4aa9-818e-2ca5bc834563" name="Changes" comment="adicionando q06 da lista 03">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercicio/listas/lista03/q06.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio/listas/lista03/q06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicio/listas/lista03/q07.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio/listas/lista03/q07.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +144,7 @@
       <workItem from="1761049457081" duration="75000" />
       <workItem from="1761139216928" duration="8428000" />
       <workItem from="1761674084117" duration="4439000" />
-      <workItem from="1761741826281" duration="15741000" />
+      <workItem from="1761741826281" duration="16557000" />
     </task>
     <task id="LOCAL-00001" summary="resolução das 4 questões da lista 02">
       <option name="closed" value="true" />
@@ -259,7 +258,23 @@
       <option name="project" value="LOCAL" />
       <updated>1761882386616</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="adicionando q07 da lista 03">
+      <option name="closed" value="true" />
+      <created>1761920157295</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1761920157295</updated>
+    </task>
+    <task id="LOCAL-00016" summary="adicionando q06 da lista 03">
+      <option name="closed" value="true" />
+      <created>1761920228210</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1761920228210</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,7 +289,9 @@
     <MESSAGE value="adicionando q03 da lista 03" />
     <MESSAGE value="adicionando q04 da lista 03" />
     <MESSAGE value="adicionando q05 da lista 03" />
-    <option name="LAST_COMMIT_MESSAGE" value="adicionando q05 da lista 03" />
+    <MESSAGE value="adicionando q07 da lista 03" />
+    <MESSAGE value="adicionando q06 da lista 03" />
+    <option name="LAST_COMMIT_MESSAGE" value="adicionando q06 da lista 03" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
